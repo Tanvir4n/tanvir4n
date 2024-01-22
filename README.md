@@ -1,5 +1,5 @@
-### Hi there 👋
-My name is Tanvir
+### Hi there myself "Tanvir"👋
+
 <!--
 **Tanvir4n/tanvir4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
